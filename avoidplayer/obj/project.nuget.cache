@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aZ+mQxXz3o7iX6VyHJHR1UWkPXzFPQ3zHPT/TyngoTsBZ+4YNExumhyxlSWpA0fVxcX1W7di+/RlB2zpOMEftg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nbruu\\Documents\\GitHub\\avoidplayer\\avoidplayer\\avoidplayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nbruu\\.nuget\\packages\\htmlagilitypack\\1.11.61\\htmlagilitypack.1.11.61.nupkg.sha512"
+  ],
+  "logs": []
+}
